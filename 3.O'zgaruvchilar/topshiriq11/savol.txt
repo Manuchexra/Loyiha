@@ -1,0 +1,1 @@
+Uchburchakning tomonlarini kiriting va uning perimetrini hisoblang.

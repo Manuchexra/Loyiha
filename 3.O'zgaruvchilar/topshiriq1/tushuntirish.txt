@@ -1,0 +1,1 @@
+Bu masalada siz ism va yosh kabi ma'lumotlarni saqlash uchun o'zgaruvchilardan foydalanasiz va print() orqali ularni chiqarasiz.

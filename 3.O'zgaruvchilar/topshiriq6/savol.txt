@@ -1,0 +1,1 @@
+Ikkita butun son o'zgaruvchisini kiriting va ularning o'rtachasini hisoblang.

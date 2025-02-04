@@ -1,0 +1,1 @@
+Doiraning yuzasi formula bo'yicha: S = π * r^2. Bu yerda π = 3.14 qabul qilinadi.

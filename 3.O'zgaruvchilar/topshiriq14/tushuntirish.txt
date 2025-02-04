@@ -1,0 +1,1 @@
+Ism va familiyani + operatori orqali birlashtirib, to'liq ismni yaratamiz.

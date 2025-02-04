@@ -1,0 +1,1 @@
+Bu masalada max() funksiyasidan foydalanamiz yoki shartlar orqali eng kattasini aniqlashimiz mumkin.

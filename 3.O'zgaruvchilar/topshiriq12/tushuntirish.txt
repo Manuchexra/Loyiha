@@ -1,0 +1,1 @@
+Bo'linma uchun /, qoldiqli bo'linma uchun % va qoldiqsiz bo'linma uchun // ishlatiladi.
