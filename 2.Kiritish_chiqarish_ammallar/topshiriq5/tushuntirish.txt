@@ -1,0 +1,2 @@
+Foydalanuvchidan yoshni olish uchun input() ishlatiladi va son shaklida qabul qilish uchun int() bilan butun son qilib o'zgartiriladi.
+Keyin yoshni ekranga chiqarish uchun print() yordamida "Siz (yosh) yoshdasiz" degan matn birlashtiriladi.

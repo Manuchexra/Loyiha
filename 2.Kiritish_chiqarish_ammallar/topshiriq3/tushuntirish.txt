@@ -1,0 +1,4 @@
+Foydalanuvchidan ismni olish uchun input()dan foydalanamiz.
+Salomlashuv matnini yaratish uchun ism bilan "Assalomu alaykum" so'zlarini birlashtiramiz va natijani print() bilan chiqaramiz.
+Bu yerda matnlarni birlashtirish uchun + operatori ishlatiladi.
+

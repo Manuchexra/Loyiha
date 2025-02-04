@@ -1,0 +1,3 @@
+Foydalanuvchidan matnni olish uchun input() ishlatiladi.
+Matnni takrorlash uchun * operatoridan foydalanamiz (ya'ni matn * 3).
+Keyin natijani ekranga chiqaramiz.

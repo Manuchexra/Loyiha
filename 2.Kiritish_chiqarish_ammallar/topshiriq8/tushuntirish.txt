@@ -1,0 +1,3 @@
+Perimetrni hisoblash uchun 2×(uzunlik+eni) formulasi qo'llaniladi.
+Foydalanuvchidan uzunlik va en kiritiladi va ular float() orqali o'nlik son shaklida qabul qilinadi.
+Keyin perimetr hisoblanadi va print() yordamida ekranga chiqariladi.

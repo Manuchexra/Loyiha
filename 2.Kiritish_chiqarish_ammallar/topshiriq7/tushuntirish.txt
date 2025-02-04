@@ -1,0 +1,2 @@
+Foydalanuvchidan ikkita son olish uchun input() funksiyasini qo'llaymiz va bu sonlarni butun son shaklida olish uchun int()dan foydalanamiz.
+Keyin sonlarni ko'paytirib, natijani ekranga chiqaramiz.

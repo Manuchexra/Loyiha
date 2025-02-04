@@ -1,0 +1,1 @@
+Foydalanuvchi kubning tomon uzunligini kiritadi va dastur uning hajmini hisoblab chiqaradi.

@@ -1,0 +1,1 @@
+Foydalanuvchi o'z ismini kiritadi va unga salomlashuv xabarini chiqarish kerak.

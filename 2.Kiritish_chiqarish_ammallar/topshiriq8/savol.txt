@@ -1,0 +1,1 @@
+Foydalanuvchi to'rtburchakning uzunligi va enini kiritadi, dastur esa uning perimetrini hisoblaydi.

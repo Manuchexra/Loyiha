@@ -1,0 +1,3 @@
+Kub hajmi tomon^3 formulasi bilan hisoblanadi.
+Foydalanuvchidan tomon uzunligini input() yordamida kiritib, uni float() orqali o'nlik son sifatida qabul qilamiz.
+Hisoblashni amalga oshirib, natijani ekranga chiqaramiz.

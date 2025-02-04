@@ -1,0 +1,1 @@
+Foydalanuvchi aylananing radiusini kiritadi, dastur aylananing uzunligini hisoblab beradi.

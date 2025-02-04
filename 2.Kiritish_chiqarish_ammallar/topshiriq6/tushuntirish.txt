@@ -1,0 +1,3 @@
+Aylananing uzunligi 2×π×radius formulasi orqali hisoblanadi.
+Foydalanuvchidan radius input() yordamida olinadi va float() yordamida son sifatida qabul qilinadi.
+Hisoblashda matematik math.pi konstantasidan foydalanamiz va natijani ekranga chiqaramiz.

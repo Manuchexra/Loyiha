@@ -1,0 +1,3 @@
+Uchburchakning yuzini hisoblash formulasi 1/2 × baza × balandlik bo'ladi.
+Foydalanuvchidan baza va balandlikni input() yordamida kiritib, ular float() yordamida o'nlik son sifatida qabul qilinadi.
+Keyin formulani qo'llab, natijani ekranga chiqaramiz.

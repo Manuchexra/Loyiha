@@ -1,0 +1,3 @@
+Birinchidan, foydalanuvchidan son olish uchun input() funksiyasidan foydalaniladi.
+Bu funksiyaga kiritilayotgan ma'lumotni son shakliga o'tkazish uchun int() funksiyasini qo'shamiz.
+So'ngra, print() yordamida kiritilgan son ekranga chiqariladi.
