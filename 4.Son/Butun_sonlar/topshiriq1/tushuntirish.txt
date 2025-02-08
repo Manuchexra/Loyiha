@@ -1,0 +1,7 @@
+Bu masala vaqtinchalik o‘zgaruvchidan foydalanmasdan, sonlarni o‘zaro almashtirishni talab qiladi. Bu yerda matematik qo‘shish va ayirish amallari ishlatiladi:
+
+Dastlab x va y sonlarining yig‘indisi x ga yoziladi. Endi x = (x + y), y esa o‘zgarmaydi.
+So'ngra y = x - y amali bilan y ning yangi qiymati hisoblanadi (y = (x + y) - y = x), ya'ni y endi oldingi x qiymatiga ega bo‘ladi.
+Oxirgi qadamda x = x - y amali yordamida yangi x qiymati aniqlanadi (x = (x + y) - x = y), ya'ni x endi oldingi y qiymatiga ega bo‘ladi.
+Shu yo‘l bilan sonlar o‘zaro almashtiriladi, vaqtinchalik o‘zgaruvchi kerak bo‘lmaydi.
+
