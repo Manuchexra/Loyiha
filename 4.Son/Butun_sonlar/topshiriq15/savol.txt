@@ -1,0 +1,4 @@
+Qaysidir yil berilgan. Berilgan yilning qaysi yuz yillikka kirishini aniqlovchi programma tuzilsin.
+
+Kirish: Yil = 2021
+Natija: 21

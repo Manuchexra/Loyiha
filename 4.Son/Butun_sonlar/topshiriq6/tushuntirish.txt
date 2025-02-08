@@ -1,0 +1,2 @@
+Perimetrni hisoblash uchun to‘rtburchakning ikki tomonini yig‘ib, 2 ga ko‘paytiramiz.
+Yuzini hisoblashda esa uzunlik va enini ko‘paytiramiz.

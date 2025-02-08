@@ -1,0 +1,1 @@
+Foydalanuvchi N sekundni kiritsa, uni kun, soat, minut va sekundlarga ajratib chiqaring.

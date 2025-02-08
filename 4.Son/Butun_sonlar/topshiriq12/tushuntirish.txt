@@ -1,0 +1,4 @@
+Yuzlik raqamni aniqlash uchun sonni 100 ga bo‘lib butun qismidan olingan sonni 10 ga bo‘lib qoldiqni olish kifoya ((son // 100) % 10).
+
+Masalan, 1234 sonini olaylik:
+1234 // 100 = 12, endi 12 % 10 = 2.

@@ -1,0 +1,1 @@
+Sekundlarni bir kun, soat va minutlarga ajratish uchun tegishli birliklarga bo‘lish va qoldiqlarni olish orqali sonlarni ajratamiz.

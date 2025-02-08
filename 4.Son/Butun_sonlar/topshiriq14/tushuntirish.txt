@@ -1,0 +1,5 @@
+1-yanvar dushanbaga to‘g‘ri kelgan. Haftaning kunlari quyidagicha ketma-ketlikda: 1-dushanba, 2-seshanba, 3-chorshanba, 4-payshanba, 5-juma, 6-shanba, 7-yakshanba. Har qanday kunni topish uchun biz K sonini 7 ga bo‘lib, qoldiqni olishimiz kerak:
+
+Qoldiq 1 bo‘lsa: dushanba
+Qoldiq 2 bo‘lsa: seshanba va hokazo.
+Agar qoldiq 0 bo‘lsa, bu yakshanbani anglatadi.

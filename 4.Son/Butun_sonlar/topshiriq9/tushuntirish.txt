@@ -1,0 +1,2 @@
+Kiritilgan kun raqamini 7 ga bo‘lib, qolgan qoldiqni topamiz. Bu qoldiq haftaning mos kunini beradi.
+Haftaning kunlari 1 dan 7 gacha bo‘lsa, qoldiq orqali har qanday raqamni haftalik intervalda aylantiramiz.

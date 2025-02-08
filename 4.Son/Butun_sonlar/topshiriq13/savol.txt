@@ -1,0 +1,4 @@
+Kun boshidan boshlab N sekund vaqt o‘tdi. Kun boshidan qancha minut to‘la o‘tganini aniqlovchi programma tuzilsin.
+
+Kirish: 3672
+Natija: 61 minut

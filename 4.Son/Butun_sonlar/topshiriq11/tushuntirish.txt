@@ -1,0 +1,4 @@
+Ushbu masala ham xuddi yuqoridagi kabi, faqat bu safar o‘nlik va birlik raqamlarini almashtirishimiz kerak.
+
+Yuzlik raqami (son // 100), o‘nlik ((son // 10) % 10) va birlik (son % 10) raqamlarini ajratib olamiz.
+Keyin o‘nlik va birlikni joylarini almashtirib yangi son hosil qilamiz: yuzlik * 100 + birlik * 10 + onlik.

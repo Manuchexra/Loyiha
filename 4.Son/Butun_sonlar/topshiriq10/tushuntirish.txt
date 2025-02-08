@@ -1,0 +1,8 @@
+Uch xonali sonning o‘nlik va yuzlik raqamlarini topish uchun sonni bo‘lish va qolgan qismni olish amallaridan foydalanamiz:
+
+Yuzlik raqamini olish uchun sonni 100 ga bo‘lib butun qismini olish kerak (yuzlik = son // 100).
+O‘nlik raqamini topish uchun 10 ga bo‘lib, 10 ga bo‘linmasidan qolgan qismini olamiz (onlik = (son // 10) % 10).
+Birlik raqami oddiy modul orqali olinadi (birlik = son % 10).
+Keyin ushbu raqamlarni joylarini almashtirib yangi son hosil qilamiz:
+
+Yangi son: onlik * 100 + yuzlik * 10 + birlik.

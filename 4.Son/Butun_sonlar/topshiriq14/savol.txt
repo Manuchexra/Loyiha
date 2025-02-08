@@ -1,0 +1,4 @@
+1-365 oralig‘ida K kuni berilgan. 1-yanvar dushanbaga to‘g‘ri kelgan. Kunning raqami bo‘yicha hafta kunini aniqlovchi programma tuzilsin.
+
+Kirish: K = 8
+Natija: 1 (Dushanba)

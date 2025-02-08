@@ -1,0 +1,5 @@
+999 dan katta bo‘lgan son berilgan.
+Bir marta bo‘lib butunni va bo‘lib qolg‘ini olish operatsiyasidan foydalanib, berilgan sonning yuzliklar xonasidagi raqamni aniqlovchi programma tuzilsin.
+
+Kirish: 1234
+Natija: 2

@@ -1,0 +1,2 @@
+Yilni 100 ga bo‘lib, o‘sha yilning qaysi yuz yillikka kirishini aniqlash mumkin.
+Agar son butun bo‘lsa, yilning oxirgi yuzligi bo‘ladi, aks holda yuqoriga yaxlitlaymiz.

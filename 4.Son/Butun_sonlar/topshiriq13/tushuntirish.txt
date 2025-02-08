@@ -1,0 +1,4 @@
+Bir minutda 60 sekund bor, shuning uchun berilgan sekundni 60 ga bo‘lsak, qancha to‘la minut o‘tganini aniqlaymiz (N // 60).
+
+Masalan, 3672 sekund uchun:
+3672 // 60 = 61 minut.

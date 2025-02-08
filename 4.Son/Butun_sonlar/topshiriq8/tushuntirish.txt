@@ -1,0 +1,1 @@
+Foydalanuvchi kiritgan sonni float sifatida qabul qilib, uning butun qismini olish uchun int() funksiyasidan foydalanamiz.
