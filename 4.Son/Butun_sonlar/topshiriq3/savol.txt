@@ -1,0 +1,1 @@
+Foydalanuvchi uchta son kiritadi. Bu sonlarning o‘rta arifmetik qiymatini hisoblang.

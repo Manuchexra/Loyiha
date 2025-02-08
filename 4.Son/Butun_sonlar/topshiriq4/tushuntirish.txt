@@ -1,0 +1,6 @@
+Bu masala soatlar bilan ishlashni talab qiladi. 24 soatli vaqt tizimida soatlar qatorini ortiqcha oshirmaslik uchun % (qoldiq) operatsiyasidan foydalaniladi:
+
+Dastlab foydalanuvchi hozirgi vaqtni (soatni) kiritadi.
+So‘ngra, qancha soat qo‘shilishi kerak bo‘lsa, shu qiymat ham kiritiladi.
+Soatning yangi qiymati (soat + qo‘shish) % 24 orqali aniqlanadi. Bu operatsiya soatni 24dan oshib ketmasligini ta'minlaydi. Masalan, agar 22 soatga 5 soat qo‘shilsa, natijada 3 bo‘ladi, ya'ni yangi vaqt tunda 03:00 bo‘ladi.
+Bu matematik prinsip vaqt manipulyatsiyalarida keng qo‘llaniladi.

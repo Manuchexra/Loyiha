@@ -1,0 +1,3 @@
+Yuzlik raqami uchun son // 100 amalidan foydalanamiz.
+Onlik raqamini olish uchun sonning oxirgi ikki xonasini (% 100) ajratib, ularni 10 ga bo‘lamiz.
+Birlik raqamini olish uchun sonni 10 ga bo‘lishdan qoldiq olish operatsiyasidan (% 10) foydalanamiz.

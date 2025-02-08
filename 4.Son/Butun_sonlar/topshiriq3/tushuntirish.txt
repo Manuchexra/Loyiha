@@ -1,0 +1,5 @@
+Bu masala o‘rta arifmetik qiymatni hisoblash haqida. O‘rta arifmetik qiymat uchta sonning yig‘indisini ularning soniga bo‘lish orqali hisoblanadi.
+
+Uchta son kiritiladi va ular qo‘shiladi.
+Yig‘indi uchta sonning soniga, ya'ni 3 ga bo‘linadi.
+Natijada o‘rta qiymat hisoblanadi. Bu usul sonlarning umumiy hajmini baholash uchun ishlatiladi, masalan, baholarni yoki boshqa raqamlarni tahlil qilishda qo‘llaniladi.

@@ -1,0 +1,6 @@
+Bu masalada uch xonali sonning raqamlari teskari tartibda chiqariladi. Masalan, 123 soni kiritilganda natija 321 bo‘lishi kerak.
+
+Birlik xonasi uchun son % 10 operatsiyasi orqali oxirgi raqam olinadi.
+O‘nlik xonasi uchun dastlab sonni 10 ga bo‘lib, butun qismi olinadi (son // 10), keyin yana % 10 amali bilan o‘nlik xonasi ajratiladi.
+Yuzlik xonasi esa sonni to‘g‘ridan-to‘g‘ri 100 ga bo‘lib, butun qismi olinadi (son // 100).
+Shundan so‘ng, bu raqamlar yig‘ilib yangi teskari son hosil qilinadi.

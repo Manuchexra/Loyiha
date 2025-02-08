@@ -1,0 +1,1 @@
+Foydalanuvchi hozirgi soatni va qo‘shilishi kerak bo‘lgan soatni kiritadi. Natijada yangi vaqtni chiqaruvchi dastur yozing.
