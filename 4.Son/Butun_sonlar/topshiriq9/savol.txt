@@ -1,1 +1,2 @@
-Foydalanuvchi haftaning biror kunini (raqam ko'rinishida 1-7 oralig‘ida) kiritadi. Ushbu kunga mos keladigan kun nomini son sifatida chiqarib bering. Masalan, 1 -> Dushanba.
+Foydalanuvchi haftaning biror kunini (raqam ko'rinishida 1-7 oralig‘ida) kiritadi.
+Ushbu kunga mos keladigan kun nomini son sifatida chiqarib bering. Masalan, 1 -> Dushanba.
