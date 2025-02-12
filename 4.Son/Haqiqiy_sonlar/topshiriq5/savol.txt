@@ -1,0 +1,1 @@
+Foydalanuvchi to‘rtburchakning uzunlik va enini kiritadi, dastur perimetr va yuzni topadi.

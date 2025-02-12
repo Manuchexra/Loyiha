@@ -1,0 +1,2 @@
+Uchta sonni kiriting va ularning yig'indisini 3 ga bo'ling, bu orqali o'rta arifmetik qiymat olinadi.
+Bu jarayon har bir sonning teng ta'sirini topishga yordam beradi.

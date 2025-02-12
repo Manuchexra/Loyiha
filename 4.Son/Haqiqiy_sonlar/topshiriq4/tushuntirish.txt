@@ -1,0 +1,2 @@
+Aylanani uzunligini hisoblash uchun formuladan foydalanamiz: L = 2 * pi * radius.
+Dastur kiritilgan radius orqali bu formulani qo'llaydi va uzunlikni chiqaradi.

@@ -1,0 +1,1 @@
+Foydalanuvchi narx va chegirma foizini kiritgandan so'ng, yangi narx foiz formulasidan foydalanib hisoblanadi. Bu hisoblash jarayoni narxdan foiz chegirilishini ko'rsatadi.

@@ -1,0 +1,2 @@
+To‘rtburchakning perimetri va yuzini topish uchun uzunlik va enini kiritasiz.
+Perimetr uchun formuladan foydalaniladi: 2 * (uzunlik + eni), yuz uchun esa: uzunlik * eni.

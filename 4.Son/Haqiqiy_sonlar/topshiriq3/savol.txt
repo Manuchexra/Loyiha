@@ -1,0 +1,1 @@
+Uchta haqiqiy son kiriting va ularning o'rta arifmetik qiymatini hisoblang.

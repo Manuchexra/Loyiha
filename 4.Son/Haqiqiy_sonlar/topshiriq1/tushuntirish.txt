@@ -1,0 +1,2 @@
+Bu yerda foydalanuvchidan haqiqiy son kiritilishi so'raladi.
+abs() funksiyasi kiritilgan sonning musbat qiymatini qaytaradi, masalan, -5 kiritilsa, natija 5 bo‘ladi.
