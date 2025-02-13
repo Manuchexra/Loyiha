@@ -1,5 +1,3 @@
-son = float(input("Haqiqiy son kiriting: "))
-butun = int(son)
-kasr = son - butun
-print("Butun qismi:", butun)
-print("Kasr qismi:", kasr)
+kunlik_masofa = float(input("Har kuni yuradigan masofani kiriting (km): "))
+haftalik_masofa = kunlik_masofa * 7
+print(f"Hafta davomida {haftalik_masofa} km masofa bosib o'tdingiz.")

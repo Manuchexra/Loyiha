@@ -1,0 +1,1 @@
+Ushbu masalada 3 ta haqiqiy sonning butun qismini ajratib olib, ularning ko'paytmasini hisoblash talab qilinadi. Butun qismini topish uchun int() funktsiyasidan foydalanamiz, bu funksiya haqiqiy sonning faqat butun qismini qaytaradi. Keyin, topilgan butun qismlarni bir-biriga ko'paytirib, natijani chiqaramiz.

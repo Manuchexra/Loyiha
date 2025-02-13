@@ -1,0 +1,10 @@
+3 ta haqiqiy son berilgan.
+Ushbu sonlarning butun qismlarini toping va ularning ko'paytmasini hisoblang.
+
+Input:
+a = 1.2
+b = 3.52
+c = 4.1
+
+Output:
+Natija : 12

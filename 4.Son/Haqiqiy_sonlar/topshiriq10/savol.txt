@@ -1,0 +1,10 @@
+3 ta haqiqiy son berilgan.
+Ushbu sonlarning har birini kasr qismlarini toping va ularni bir-biriga qo'shing.
+
+Input:
+a = 2.3
+b = 2.32
+c = 4.1
+
+Output:
+Natija : 0.72

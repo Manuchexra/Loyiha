@@ -1,0 +1,1 @@
+Ushbu masalada 3 ta haqiqiy sonning 1 ga bo'lgandagi qoldiqlari topilib, yig'indisi hisoblanadi. Har bir sonni 1 ga bo'lganda hosil bo'lgan kasr qismini % operatori bilan topamiz. Keyin, bu qoldiqlarni qo'shib, natijani ekranga chiqaramiz. Misol uchun, 1.2, 2.34, va 2.1 sonlarining qoldiqlari qo'shilganda natija 0.64 bo'ladi.
